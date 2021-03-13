@@ -12,7 +12,7 @@ public class Skeleton extends Boss {
         return QuantityOfArrows;
     }
 
-   
+    @0verride
     public void printInfo() {
         super.printInfo();
     }
